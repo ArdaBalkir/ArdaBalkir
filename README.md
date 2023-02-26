@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=ArdaBalkir&color=dc143c" align="center" />
+ 
+</div>  
+<br>
 ### I'm Arda, an all round developer from UK  
   
 
@@ -45,10 +51,5 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ArdaBalkir&color=dc143c" align="center" />
- 
-</div>  
-  
 
-<br/>  
+
