@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Arda</h1>
+<h1 align="center">Hello, I'm Arda</h1>
 <h3 align="center">An all round developer from the UK</h3>
 
-- 🔭 I’m currently working on **Cheese Quality Assessment**
+- I’m currently working on **Cheese Quality Assessment** with TensorFlow and OpenCV
 
-- 📫 How to reach me **abalkir2014@gmail.com**
+- How to reach me **abalkir2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
