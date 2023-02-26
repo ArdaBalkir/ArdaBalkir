@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ArdaBalkir&color=dc143c" align="center" />
- 
 </div>  
 <br>
+
 ### I'm Arda, an all round developer from UK  
   
 
- I’m currently working on [Cheese Expert, a quality assessment](https://github.com/ArdaBalkir/CheeseInterfaceFlask)  
+I’m currently working on [Cheese Expert, a quality assessment](https://github.com/ArdaBalkir/CheeseInterfaceFlask)  
   
 
-<div align="center">  
+<div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
