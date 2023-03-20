@@ -52,7 +52,7 @@ I’m currently working on [Cheese Expert, a quality assessment](https://github.
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardabalkir&show_icons=true&locale=en&layout=compact" alt="ardabalkir" /></p>
+<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardabalkir&show_icons=true&locale=en&layout=compact" alt="ardabalkir" /></p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardabalkir&show_icons=true&locale=en" alt="ardabalkir" /></p>
